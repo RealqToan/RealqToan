@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Toan
 
-<!--
-**RealqToan/RealqToan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems student  
+💻 Backend-focused Full-Stack Developer (Java / Spring Boot + React)  
+🚀 Interested in building scalable business systems and web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🎯 Goal: Become a Backend Engineer specializing in enterprise systems  
+- ⚙️ Strong interest in system design, APIs, and database management  
+- 📊 Background in MIS helps me understand both business and technology  
+...
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java  
+- C++  
+- Python  
+
+**Backend**
+- Spring Boot  
+- RESTful APIs  
+
+**Frontend**
+- React (basic)  
+- HTML, CSS, JavaScript  
+
+**Database**
+- MySQL  
+- SQL Server  
+
+**Tools**
+- Git  
+- Postman  
+- Maven  
+
+**Basic Knowledge**
+- OOP  
+- HTTP / REST  
+- Database design  
+
+---
+
+## 🧩 Current Focus
+- Designing clean and scalable system architecture  
+- Authentication & Authorization (JWT, Spring Security)  
+- Backend performance optimization  
+- Building full-stack business applications  
+
+---
+
+## 📌 Projects
+...
+---
+
+## 📫 Contact
+- 📧 toannguyen200320006@gmail.com
+- 💻 https://github.com/RealqToan
